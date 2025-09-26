@@ -70,7 +70,7 @@ The CSS styles are designed to work seamlessly on both **laptops (desktop screen
   #### Github [ https://github.com/JEANLUCTLA/wede_poe_update1/tree/main 
 
 ---
-##### References
+# References
 -W3Schools (2024). HTML Tutorial. [online] W3schools.com. Available at: https://www.w3schools.com/html/.
 -Youtu.be. (2025). Available at: https://youtu.be/UUjNEMXZA-k?si=IdrujibAebr-aaHi [Accessed 26 Sep. 2025].
 -Youtu.be. (2025). Available at: https://youtu.be/0W6qz0-aDaM [Accessed 26 Sep. 2025].
